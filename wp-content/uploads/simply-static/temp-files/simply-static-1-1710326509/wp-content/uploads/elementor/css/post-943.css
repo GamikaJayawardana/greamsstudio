@@ -1,0 +1,16 @@
+.elementor-943 .elementor-element.elementor-element-7e90fb2 > .elementor-container{max-width:1320px;}.elementor-943 .elementor-element.elementor-element-7e90fb2{overflow:hidden;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:110px 0px 110px 0px;z-index:1;}.elementor-943 .elementor-element.elementor-element-7e90fb2 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}@media(max-width:1024px) and (min-width:768px){.elementor-943 .elementor-element.elementor-element-f11b6ae{width:100%;}}@media(max-width:1024px){.elementor-943 .elementor-element.elementor-element-7e90fb2{padding:90px 0px 90px 0px;}}@media(max-width:767px){.elementor-943 .elementor-element.elementor-element-7e90fb2{padding:70px 0px 70px 0px;}}/* Start custom CSS for section, class: .elementor-element-7e90fb2 */.elementor-943 .elementor-element.elementor-element-7e90fb2::before {
+    position: absolute;
+    width: 250%;
+    height: 60%;
+    left: -110px;
+    bottom: -20%;
+    content: "";
+    background-color: #f6f6f6;
+    -webkit-transform: rotate(-11deg);
+    transform: rotate(-11deg);
+    z-index: -1;
+}
+
+.elementor-943 .elementor-element.elementor-element-7e90fb2 {
+    overflow: hidden ;
+}/* End custom CSS */
