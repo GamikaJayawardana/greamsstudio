@@ -1,0 +1,1754 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Extendify — Gutenberg Patterns and Templates - Stable (latest release)\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-11-16 11:55+0100\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:5
+msgid "Pattern added"
+msgstr "Mönster tillagt"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:5
+msgid "Design Patterns"
+msgstr "Designmönster"
+
+#. translators: %s is the site type name
+#: public/build/extendify-library-a5aefc52579b75addc18.js:3
+msgid "Site Type: %s"
+msgstr "Webbplatsstyp: %s"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+#: public/build/extendify-library-a5aefc52579b75addc18.js:3
+msgid "Fetching..."
+msgstr "Hämtar..."
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Retrying..."
+msgstr "Försöker igen..."
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "All"
+msgstr "Alla"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Design Type"
+msgstr "Designtyp"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Loading more patterns..."
+msgstr "Laddar in fler mönster..."
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Loading Patterns..."
+msgstr "Laddar in mönster.."
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Insert Pattern"
+msgstr "Infoga mönster"
+
+#: app/Library/Admin.php:186
+msgid "Extendify Library User Settings"
+msgstr "Användarinställningar för Extendify-biblioteket"
+
+#. translators: at the end of the sentence, there is a link to the terms of use
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "In order to use the AI-powered content drafting tool, you must agree to the terms of use. For more information, click on this link:"
+msgstr "För att använda det AI-drivna innehållsutkastverktyget måste du godkänna användarvillkoren. För mer information, klicka på denna länk:"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:3
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Accept"
+msgstr "Acceptera"
+
+#. translators: at the end of the sentence, there is a link to the terms of use
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:3
+msgid "In order to use the AI-powered chatbot to answer your WordPress questions, you must agree to the terms of use. For more information, click on this link:"
+msgstr "För att använda den AI-drivna chatten för att svara på dina WordPress-frågor måste du godkänna användarvillkoren. För mer information, klicka på denna länk:"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:3
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Terms of Use"
+msgstr "Användarvillkor"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "View more pages"
+msgstr "Visa fler sidor"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "We already selected the most common pages for your type of website."
+msgstr "Vi har redan markerat de vanligast förekommande sidorna på webbplatser av denna typ."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Pick the pages to add to your website"
+msgstr "Välj vilka sidor du vill lägga till på din webbplats"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Home page"
+msgstr "Startsida"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Pick a design for your website"
+msgstr "Välj en design för webbplatsen"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "We'll make sure your website has what it needs to achieve your goals."
+msgstr "Vi ska se till att webbplatsen har det den behöver för att kunna nå dina mål."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "What are your goals for your website?"
+msgstr "Vilka mål har du för webbplatsen?"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "We will help you create your WordPress website quickly."
+msgstr "Vi hjälper dig att snabbt skapa din WordPress-webbplats."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "What is your WordPress site about?"
+msgstr "Vad handlar din WordPress-webbplats om?"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Searching..."
+msgstr "Söker…"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Enter your website name"
+msgstr "Skriv in webbplatsens namn"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Helping you to succeed"
+msgstr "Hjälpa dig att lyckas"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Adding page content"
+msgstr "Lägga till sidinnehåll"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Installing necessary plugins"
+msgstr "Installerar tillägg som behövs"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Creating a beautiful website"
+msgstr "Skapar en vacker webbplats"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Applying your website styles"
+msgstr "Tillämpar dina webbplatsstilar"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Personalizing your experience"
+msgstr "Anpassar din upplevelse"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Populating data"
+msgstr "Fyller i data"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Service temporarily unavailable"
+msgstr "Tjänsten är inte tillgänglig just nu"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Discard"
+msgstr "Kasta"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Try again"
+msgstr "Försök igen"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+msgid "%s dismissed"
+msgstr "%s avfärdade"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "View all recommendations"
+msgstr "Visa alla rekommendationer"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "AI Tools"
+msgstr "AI-verktyg"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Draft"
+msgstr "Utkast"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Replace selected block text"
+msgstr "Vill du ersätta texten i det markerade blocket"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Ask AI to generate text"
+msgstr "Be AI att generera text"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "AI is writing..."
+msgstr "AI håller på att skriva..."
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Simplify language"
+msgstr "Förenkla språket"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Make longer"
+msgstr "Gör längre"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Make shorter"
+msgstr "Gör kortare"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Fix spelling & grammar"
+msgstr "Korrigera stavning och grammatik"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Improve writing"
+msgstr "Förbättra ditt skrivande"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Write a blog post about"
+msgstr "Skriv ett blogginlägg om"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "For other questions, visit our support page."
+msgstr "Besök vår supportsida om du har andra frågor."
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Hide the chat bot"
+msgstr "Dölj chattboten"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "WordPress Comfort Level"
+msgstr "Erfarenhetsnivå med WordPress"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Recent History"
+msgstr "Senaste historik"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Advanced"
+msgstr "Avancerad"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Intermediate"
+msgstr "Medel"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Beginner"
+msgstr "Nybörjare"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Rate that this answer was not helpful"
+msgstr "Betygsätt detta svar som inte hjälpsamt"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Rate that this answer was helpful"
+msgstr "Betygsätt detta svar som hjälpsamt"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Remove rating"
+msgstr "Ta bort betyget"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Enable the AI Chatbot"
+msgstr "Aktivera AI-chattroboten"
+
+#: public/build/extendify-deactivate-083136d14b2c3d316f8c.js:1
+msgid "Deactivate only"
+msgstr "Inaktivera endast"
+
+#: public/build/extendify-deactivate-083136d14b2c3d316f8c.js:1
+msgid "Yes, add styles"
+msgstr "Ja, lägg till stilar"
+
+#: public/build/extendify-deactivate-083136d14b2c3d316f8c.js:1
+msgid "We detected that you have added some designs from the Site Launcher or Design Library. Click \"yes\" below to add the styles to your theme (as Additional CSS) so they continue to display properly on your site."
+msgstr "Har du lagt till några designer från webbplatsstartaren eller designbiblioteket? Klicka på ”ja” nedan för att lägga till stilarna i ditt tema (som anpassad CSS) för att de ska visas korrekt på webbplatsen."
+
+#: public/build/extendify-deactivate-083136d14b2c3d316f8c.js:1
+msgid "Keep styles?"
+msgstr "Vill du behålla stilarna?"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Ask your WordPress question…"
+msgstr "Ställ din fråga om WordPress…"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Ask me any questions about WordPress."
+msgstr "Fråga mig vad som helst om WordPress."
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Hi there!"
+msgstr "Hej på dig!"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Ask Another Question"
+msgstr "Ställ en annan fråga"
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Oops! We were unable to send your question."
+msgstr "Hoppsan! Vi kunde inte skicka din fråga."
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "Please try again."
+msgstr "Försök igen."
+
+#: public/build/extendify-chat-1be755c7f34b8368dced.js:1
+msgid "AI Chat"
+msgstr "AI-chatt"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+msgid "The Site Assistant is your go-to dashboard to help you get the most out of your site."
+msgstr "Site Assistant är din huvudpanel för att hjälpa dig utnyttja din webbplats till fullo."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Use this toggle to collapse or expand the sidebar menu."
+msgstr "Använd denna knapp för att minimera och expandera menyn i sidopanelen."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Collapse menu"
+msgstr "Minimera menyn"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Back to Knowledge Base home"
+msgstr "Åter till kunskapsbasen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Go back to the list of Blocks"
+msgstr "Gå tillbaka till listan över block"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Go to the list of Blocks"
+msgstr "Gå till listan över block"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Sorry, we couldn't find anything"
+msgstr "Vi hittade ingenting"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Search for articles"
+msgstr "Sök efter artiklar"
+
+#. translators: %s is the search term
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Search results for \"%s\""
+msgstr "Sökresultat för ”%s”"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "From here you can customize the dimensions, padding, and margins used for your site layout."
+msgstr "Här kan du anpassa storlek, padding och marginaler som används i layouten för webbplatsen."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Layout button opens the layout settings panel."
+msgstr "Knappen ”Layout” öppnar panelen för layoutinställningar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Select the theme's palette or individual elements to customize their colors."
+msgstr "Välj temats färgpalett eller enskilda element för att anpassa deras färger."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Colors button opens the color settings panel."
+msgstr "Knappen ”Färger” öppnar panelen för färginställningar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Colors"
+msgstr "Färger"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Choose a typographic element to customize."
+msgstr "Välj ett typografiskt element du vill anpassa."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Typography button opens the typography settings panel."
+msgstr "Typografiknappen öppnar panelen för typografiinställningar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Typography"
+msgstr "Typografi"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Choose a style you like to preview how it will look on your site."
+msgstr "Välj en stil du gillar för att förhandsgranska hur den kommer att se ut på din webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Browse Styles button opens the style variations panel."
+msgstr "Knappen ”Bläddra bland stilar” öppnar panelen för stilvariationer."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Style Variations"
+msgstr "Stilvarianter"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The styles panel allows you to customize the appearance of your site. It includes style variations, colors, typography, and more."
+msgstr "Stilpanelen låter dig anpassa utseendet på din webbplats. Den innehåller stilvarianter, färger, typografi och mer."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Styles Panel"
+msgstr "Stilpanel"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The style editor allows you to edit the styles, colors, and typographic elements of your site. To access the style editor, first open the Editor via Appearance > Editor."
+msgstr "Stilredigeraren låter dig redigera stilar, färger och typografiska element på din webbplats. För att komma åt stilredigeraren behöver du först öppna Redigeraren via Utseende > Redigerare."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Style Editor"
+msgstr "Stilredigerare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The selected pattern has been inserted into the page."
+msgstr "Det valda mönstret har infogats på sidan."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "View the Inserted Pattern"
+msgstr "Visa det infogade mönstret"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Simply select any pattern you wish to insert into a page by clicking on it."
+msgstr "Välj helt enkelt vilket mönster du vill infoga på en sida genom att klicka på det."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Select a Pattern"
+msgstr "Välj ett mönster"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click on any pattern category to refine the selection."
+msgstr "Klicka på någon mönsterkategori för att begränsa urvalet."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Filter Patterns"
+msgstr "Filtrera mönster"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Choose to insert individual block patterns, or full blown templates."
+msgstr "Välj att infoga enstaka blockmönster, eller kompletta mallar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Patterns and Layouts"
+msgstr "Mönster och layouter"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Extendify pattern library can be opened by clicking the button to the left."
+msgstr "Mönsterbiblioteket i Extendify kan du öppna med knappen till vänster."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Open the Pattern Library"
+msgstr "Öppna mönsterbiblioteket"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+msgid "Knowledge Base home"
+msgstr "Kunskapsbasens startsida"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Guided tours are optimized for large screens, ensuring the best possible experience."
+msgstr "Guidade rundturer är optimerade för stora skärmar, vilket garanterar en optimal upplevelse."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Dismiss Banner"
+msgstr "Avfärda banner"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "View all (%s)"
+msgstr "Visa alla (%s)"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+msgid "Tour this page"
+msgstr "Gör en rundtur på denna sida"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Manage your profile or log out of your account here."
+msgstr "Hantera din profil eller logga ut från ditt konto här."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "User"
+msgstr "Användare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Advanced settings for your site and for certain plugins."
+msgstr "Avancerade inställningar för din webbplats och för vissa tillägg."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Import/export post data, check site health, and edit theme or plugin files directly in the WordPress admin."
+msgstr "Importera/exportera inläggsdata, kontrollera webbplatsens hälsa och redigera temans eller tilläggs filer direkt i WordPress-kontrollpanel."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Tools"
+msgstr "Verktyg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add or manage users on your site, both admin users and others."
+msgstr "Lägg till eller hantera användare på din webbplats, både administratörer och andra användare."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add or manage the plugins on your site."
+msgstr "Lägg till eller hantera tillägg på din webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Manage your theme and access the Site Editor from the Appearance menu. The Site Editor is where you can make global changes to your site (such as the menu, header/footer, and styles)."
+msgstr "Hantera ditt tema och kom åt webbplatsredigeraren via menyn Utseende. I webbplatsredigeraren kan du genomföra globala ändringar på din webbplats (t.ex. navigeringsmenyn, sidhuvudet/sidfoten och stilar)."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Appearance"
+msgstr "Utseende"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "If you have commenting enabled on your posts, you can manage those comments here."
+msgstr "Om du har kommentarer aktiverade på dina inlägg kan du hantera de kommentarerna här."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add, edit, or remove images and other media from your library. When you upload an image to be used on your site, it will be added to the library."
+msgstr "Lägg till, redigera eller ta bort bilder och annan media från ditt bibliotek. När du laddar upp en bild för att användas på din webbplats, läggs den till i biblioteket."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Media"
+msgstr "Media"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Manage and create blog posts."
+msgstr "Hantera och skapa blogginlägg."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Posts"
+msgstr "Inlägg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The default WordPress dashboard will have some overall site metrics and modules added from certain plugins."
+msgstr "Standardkontrollpanelen i WordPress innehåller vissa övergripande mätvärden för webbplatsen samt moduler som lagts till från vissa tillägg."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Access the Site Assistant at any time."
+msgstr "Nå Webbplatsassistenten när som helst."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Come back to the Site Assistant any time by clicking the menu item."
+msgstr "Du kan när som helst komma tillbaka till Webbplatsassistenten genom att klicka på dess menyalternativ."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "See our personalized recommendations for you that will help you accomplish your goals."
+msgstr "Se våra skräddarsydda rekommendationer för dig som hjälper dig att uppnå dina mål."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Easily access some of the most common items in WordPress with these quick links."
+msgstr "Få enkel tillgång till några av de mest använda objekten i WordPress via dessa snabblänkar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "See additional tours of the different parts of WordPress. Restart your completed tours at any time."
+msgstr "Hitta fler rundturer till olika delar av WordPress. Du kan när som helst återkomma till en rundtur du gjort tidigare."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Find articles with information on accomplishing different things with WordPress, including screenshots, and videos."
+msgstr "Hitta artiklar med information om hur man åstadkommer olika saker med WordPress, inklusive skärmbilder och videoklipp."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Knowledge Base"
+msgstr "Kunskapsbas"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Now that you've created your starter site, make it your own with these follow up tasks."
+msgstr "Din webbplats är nu skapad med exempelinnehåll. Anpassa den enligt dina behov med dessa uppföljningar."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "The Site Assistant gives you personalized recommendations and helps with creating and maintaining your site."
+msgstr "Webbplatsassistenten ger dig personliga rekommendationer och hjälper till med att skapa och underhålla din webbplats."
+
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "Menu"
+msgstr "Meny"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Get going with these WordPress tours"
+msgstr "Kom igång med hjälp av dessa WordPress-rundturer"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Set Site Title"
+msgstr "Ange webbplatsens rubrik"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Create a super-fast, beautiful, and fully customized site in minutes with our Site Launcher."
+msgstr "Skapa en supersnabb, vacker och helt anpassad webbplats på några minuter med vår Webbplatsstartare."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Home"
+msgstr "Startsida"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "There was an error loading this article"
+msgstr "Ett fel uppstod vid inläsning av denna artikel"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "There was an error loading articles"
+msgstr "Ett fel uppstod vid inläsning av artiklar"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Tours"
+msgstr "Rundturer"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "No tours found..."
+msgstr "Inga rundturer hittades..."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Start Tour"
+msgstr "Starta rundturen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Restart Tour"
+msgstr "Starta om rundturen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Help Center"
+msgstr "Hjälpcenter"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "No support articles found..."
+msgstr "Inga supportartiklar hittades..."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click the Add New button to add a new user to your site."
+msgstr "Klicka på knappen ”Lägg till ny” för att skapa en ny användare på din webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add a new user"
+msgstr "Lägg till en ny användare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Use the search bar to find a particular user."
+msgstr "Använd sökfältet för att hitta en viss användare."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Search for users"
+msgstr "Sök efter användare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click the edit button to change the user's role, manage their account, or change their profile information."
+msgstr "Klicka på redigeringsknappen för att ändra användarens roll, hantera deras konto eller ändra deras profilinformation."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Edit user information"
+msgstr "Redigera användarinformation"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "See all of your users, including admin users in this table."
+msgstr "Se alla dina användare, inklusive administratörer, i denna tabell."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Users"
+msgstr "Användare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click here to view and manage the users on your site."
+msgstr "Klicka här för att visa och hantera användarna på din webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "All Users menu"
+msgstr "Menyn ”Alla användare”"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click here to add another plugin to your site."
+msgstr "Klicka här för att lägga till ett nytt tillägg på din webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add another"
+msgstr "Lägg till nytt"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Under each plugin you can activate or deactivate it."
+msgstr "Under varje tillägg kan du aktivera eller inaktivera det."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Deactivate/activate option"
+msgstr "Alternativ för att aktivera/inaktivera"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "See all plugins installed on your site. This includes plugins that are active and deactivated."
+msgstr "Se alla tillägg som är installerade på webbplatsen, både aktiva och inaktiverade."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Installed plugins"
+msgstr "Installerade tillägg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click this menu to see and manage the plugins you have installed."
+msgstr "Klicka på denna meny för att visa och hantera de tillägg du har installerat."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Installed Plugins menu"
+msgstr "Meny för installerade tillägg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "If you have a plugin from an external source, you can upload it directly here."
+msgstr "Om du har ett tillägg från en extern källa kan du ladda upp det direkt här."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Upload Plugin"
+msgstr "Ladda upp tillägg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Install the plugin. Then, press this button again to activate the plugin."
+msgstr "Installera tillägget. Tryck sedan på denna knapp igen för att aktivera tillägget."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Install now"
+msgstr "Installera nu"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "See important information about each plugin."
+msgstr "Visa viktig information om varje tillägg."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Plugin details"
+msgstr "Tilläggsinformation"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Search for a plugin by name or functionality."
+msgstr "Sök efter ett tillägg via dess namn eller funktion."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click here to access the Add Plugins page."
+msgstr "Klicka här för att komma till sidan där du lägger till nya tillägg."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add New plugin menu"
+msgstr "Meny för att lägga till nytt tillägg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click publish or update to save the changes you’ve made to the page and make them live on the site."
+msgstr "Klicka på publicera eller uppdatera för att spara dina ändringar på sidan och aktivera dem på webbplatsen."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Publish or Save"
+msgstr "Publicera eller spara"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click preview to view how your changes look on the front end of your site."
+msgstr "Klicka på förhandsgranska för att se hur dina ändringar kommer att se ut i webbplatsens front-end."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Select either page or block to change the settings for the entire page or the block that is selected."
+msgstr "Välj antingen sida eller block för att ändra inställningarna för hela sidan eller det valda blocket."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Page and Block Settings"
+msgstr "Inställningar för sidor och block"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "This is a sample paragraph block. It can be several sentences long and will span multiple rows. You can add as many blocks as you'd like to the page."
+msgstr "Det här är ett exempel på ett textstyckesblock. Det kan vara flera meningar långt och täcka flera rader. Du kan lägga till valfritt antal block på sidan."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Each block will show up on the page and can be edited by clicking on it."
+msgstr "Varje block visas på sidan. Klicka på ett block för att redigera det."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Blocks"
+msgstr "Block"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Edit the page title by clicking it. Note: The title may or may not show up on the published page, depending on the page template used."
+msgstr "Redigera sidrubriken genom att klicka på den. Obs: Rubriken kanske inte visas på den publicerade sidan, beroende på vilken sidmall som används."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Page Title"
+msgstr "Sidrubrik"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add a block by clicking or dragging it onto the page."
+msgstr "Lägg till ett block genom att klicka på det eller dra det till sidan."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Block Inserter"
+msgstr "Blockinfogare"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Click the plus to open the block inserter."
+msgstr "Klicka på plustecknet för att öppna blockinfogaren."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add a Block"
+msgstr "Lägg till ett block"
+
+#: app/Assist/Controllers/SupportArticlesController.php:109
+msgid "Page not found"
+msgstr "Sidan hittades inte"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Layout"
+msgstr "Layout"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Events"
+msgstr "Evenemang"
+
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "Skip to Assist"
+msgstr "Hoppa till assistent"
+
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "Assist navigation"
+msgstr "Assistent för navigering"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+msgid "Take a tour"
+msgstr "Ta en rundtur"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Recommendations"
+msgstr "Rekommendationer"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Dashboard"
+msgstr "Adminpanel"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+msgid "Personalized tasks for your site"
+msgstr "Personifierade uppgifter för din webbplats"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "View completed tasks"
+msgstr "Visa slutförda uppgifter"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Congratulations! Take a moment to celebrate."
+msgstr "Grattis! Ta en stund att fira."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "All caught up!"
+msgstr "Allt är i sin ordning!"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Tasks"
+msgstr "Uppgifter"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Not completed"
+msgstr "Inte färdiga"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Completed"
+msgstr "Färdiga"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+msgid "View all %s"
+msgstr "Visa alla %s"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Quick Links"
+msgstr "Snabblänkar"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "No quick links found..."
+msgstr "Inga snabblänkar hittades..."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "At any time, you can view your site (from a visitor's perspective) from the top admin bar under your site's name."
+msgstr "Du kan när som helst se din webbplats (ur en besökares perspektiv) via adminfältet överst under din webbplats namn."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Use the pages menu to add, delete, or edit the pages on your site."
+msgstr "Använd menyn för sidor för att lägga till, ta bort eller redigera sidor på webbplatsen."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:15
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "Done"
+msgstr "Klar"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Tour Steps"
+msgstr "Rundturens steg"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "Tour"
+msgstr "Rundtur"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:5
+msgid "Open for new pages"
+msgstr "Öppna för nya sidor"
+
+#. translators: %s: Extendify Library term
+#: public/build/extendify-library-a5aefc52579b75addc18.js:5
+msgid "Toggle %s on new pages"
+msgstr "Slå på/av %s på nya sidor"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+#: public/build/extendify-library-a5aefc52579b75addc18.js:3
+msgid "Search for your business type"
+msgstr "Sök din typ av verksamhet"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:83
+msgid "%s Banner"
+msgstr "%s-banner"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "We encountered a server error we cannot recover from. Please reload the page and try again."
+msgstr "Ett serverfel som inte går att ignorera har inträffat. Ladda om sidan för att försöka igen."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Personalized recommendations for your site"
+msgstr "Personliga rekommendationer för din webbplats"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Show"
+msgstr "Visa"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+msgid "Hide"
+msgstr "Dölj"
+
+#. translators: %s is the number of tasks
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:11
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:11
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+msgid "%s completed"
+msgstr "%s klart"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Save"
+msgstr "Spara"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Enter a site description..."
+msgstr "Ange en webbplatsbeskrivning..."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Site description"
+msgstr "Webbplatsbeskrivning"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Add site description"
+msgstr "Lägg till webbplatsbeskrivning"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Upload site logo"
+msgstr "Ladda upp webbplatslogga"
+
+#: app/AdminPageRouter.php:135
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Site Assistant"
+msgstr "Webbplatsassisten"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Blog"
+msgstr "Blogg"
+
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "View site"
+msgstr "Visa webbplatsen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:5
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:5
+msgid "Your site is ready!"
+msgstr "Din webbplats är klar!"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Upload site icon"
+msgstr "Ladda upp webbplatsikon"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Set site icon"
+msgstr "Välj webbplatsikon"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Site icon"
+msgstr "Webbplatsikon"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Set site logo"
+msgstr "Välj webbplatslogga"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Site logo"
+msgstr "Webbplatslogga"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Remove image"
+msgstr "Ta bort bild"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Replace image"
+msgstr "Ersätt bild"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Edit or update the image"
+msgstr "Redigera eller uppdatera bilden"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+#: public/build/extendify-deactivate-083136d14b2c3d316f8c.js:1
+msgid "Close Modal"
+msgstr "Stäng modalfönstret"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Select Site Pages"
+msgstr "Välj sidor för webbplatsen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Select Site Design"
+msgstr "Välj webbplatsdesign"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Select Site Goals"
+msgstr "Välj målen för webbplatsen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Continue Building Your Website"
+msgstr "Fortsätt bygga din webbplats"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Select Site Industry"
+msgstr "Välj bransch för webbplatsen"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Let's Start Building Your Website"
+msgstr "Låt oss börja bygga din webbplats"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:9
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:9
+msgid "No tasks found..."
+msgstr "Inga uppgifter hittades.."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Exit Launch"
+msgstr "Avsluta start"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:95
+msgid "Welcome to %s"
+msgstr "Välkommen till %s"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Redirecting in 3, 2, 1..."
+msgstr "Omdirigerar om 3, 2, 1..."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Your website has been created!"
+msgstr "Din webbplats är klar!"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Setting up your Site Assistant"
+msgstr "Konfigurerar din webbplatsassisten"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Starting off with a full website"
+msgstr "Börja med en färdig webbplats"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Site Title"
+msgstr "Webbplats­rubrik"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:13
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:13
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Back"
+msgstr "Tillbaka"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Site Industry"
+msgstr "Webbplatsens bransch"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Goals"
+msgstr "Mål"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Take me there"
+msgstr "Ta mig dit"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Hey there, Launch is powered by Extendable and is required to proceed. You can install it from the link below and start over once activated."
+msgstr "Hej. Launch drivs av Extendable och krävs för att kunna fortsätta. Du kan installera tillägget via länken nedan och börja om när det är aktiverat."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "One more thing before we start."
+msgstr "En sak till innan vi börjar."
+
+#. translators: %s: Extendify Library term
+#: app/Library/AdminPage.php:117
+msgid "1. Open the %s"
+msgstr "1. Öppna %s"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: app/Library/AdminPage.php:75
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "View Site"
+msgstr "Visa webbplats"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Site is not ready to launch."
+msgstr "Webbplatsen är inte redo att lanseras."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:15
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Next"
+msgstr "Nästa"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Pages"
+msgstr "Sidor"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "You can personalize this later."
+msgstr "Du kan anpassa detta senare."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Loading..."
+msgstr "Laddar in..."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Search..."
+msgstr "Sök..."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "What's the name of your website?"
+msgstr "Vilket namn vill du ge din webbplats?"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "You can change this later."
+msgstr "Du kan ändra detta senare."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "What's the name of your new site?"
+msgstr "Vad är namnet på din nya webbplats?"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Press to select"
+msgstr "Tryck för att välja"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:5
+msgid "Just a moment, this is taking longer than expected."
+msgstr "Vänta lite, det tar längre tid än väntat."
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:1
+msgid "Design Library"
+msgstr "Designbibliotek"
+
+#: app/Library/AdminPage.php:178
+msgid "You'll find beautiful high fidelity Gutenberg content to add to your pages in no time!"
+msgstr "Du hittar på nolltid vackert Gutenberg-innehåll av hög kvalitet att lägga till på dina sidor!"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:172
+msgid "Search by industry, contents, and design attributes. %s has thousands of best-in-class block patterns. Find what you love and add it to the page - done!"
+msgstr "Sök efter bransch, innehåll och designattribut. %s innehåller tusentals blockmönster i toppklass. Hitta det du älskar och lägg till det på sidan – så enkelt är det!"
+
+#: app/Library/AdminPage.php:166
+msgid "3. Browse Patterns & Layouts."
+msgstr "3. Bläddra bland mönster och layouter."
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:156
+msgid "%s supports over sixty types with new industries added regularly."
+msgstr "%s stöder över sextio olika typer, och nya branscher tillkommer regelbundet."
+
+#: app/Library/AdminPage.php:150
+msgid "With the library open, you can set your site industry - or type - which will surface the perfect industry-specific patterns and full page layouts to drop onto your website."
+msgstr "Med biblioteket öppet kan du ställa in din webbplatsbransch – eller typ – för att lyfta fram de branschspecifika mönster som passar bäst och helsideslayouter att lägga till på din webbplats."
+
+#: app/Library/AdminPage.php:147
+msgid "2. Choose a site industry"
+msgstr "2. Välj en bransch för webbplatsen"
+
+#. translators: %1$s = URL.
+#: app/Library/AdminPage.php:134
+msgid "clicking here"
+msgstr "klicka här"
+
+#. translators: %1$s = URL.
+#: app/Library/AdminPage.php:134
+msgid "You may also add a new page with the library opened for you by %1$s."
+msgstr "Du kan också lägga till en ny sida med biblioteket öppnat för dig genom %1$s."
+
+#. translators: %s: Extendify Library term
+#: app/Library/AdminPage.php:126
+msgid "When editing a page or post within the block editor, you'll see the %s button within the editor's header"
+msgstr "När du redigerar en sida eller ett inlägg i blockredigeraren finns knappen %s i redigerarens sidhuvud"
+
+#. translators: %s: The name of the plugin, Extendify
+#: app/Library/AdminPage.php:104
+msgid "%s is a massive library of drop-in block patterns easily customized to your liking. Each pattern is meticulously designed to work with your existing WordPress theme."
+msgstr "%s är ett omfattande bibliotek med lättanpassade blockmönster. Varje mönster är noggrant utformat för att fungera med ditt befintliga WordPress-tema."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:7
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:7
+msgid "Show all"
+msgstr "Visa alla"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:1
+msgid "Design"
+msgstr "Design"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:3
+msgid "Close"
+msgstr "Stäng"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Submit"
+msgstr "Skicka"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Settings"
+msgstr "Inställningar"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:1
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Search"
+msgstr "Sök"
+
+#: public/build/extendify-library-a5aefc52579b75addc18.js:3
+msgid "Site Type"
+msgstr "Typ av webbplats"
+
+#. Author URI of the plugin
+#: extendify.php
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Description of the plugin
+#: extendify.php
+msgid "Extendify is the platform of site design and creation tools for people that want to build a beautiful WordPress website with a library of patterns and full page layouts for the Gutenberg block editor."
+msgstr "Extendify är en plattform med verktyg för design och skapande av webbplatser för personer som vill bygga vackra WordPress-webbplatser med ett bibliotek av mönster och helsideslayouter anpassade för blockredigeraren Gutenberg."
+
+#. Plugin URI of the plugin
+#: extendify.php
+msgid "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://extendify.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: extendify.php
+msgid "Extendify"
+msgstr "Extendify"
+
+#. translators: %1$s is the current step, %2$s is the total number of steps
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:15
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:15
+msgid "%1$s of %2$s"
+msgstr "%1$s av %2$s"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Creating pages with custom content"
+msgstr "Skapar sidor med anpassat innehåll"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Setting up site layout"
+msgstr "Inställning av webbplatslayout"
+
+#. translators: at the end of the sentence, there is a link to the terms of use
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "I agree to the %1$sAI terms and conditions%2$s"
+msgstr "Jag godkänner %1$sAI:s användarvillkor%2$s"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Website description"
+msgstr "Beskrivning av webbplatsen"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "E.g., We are a yoga studio in Lakewood, CO with professionally trained instructors with focus on hot yoga for therapeutic purposes."
+msgstr "T.ex., Vi är en yogastudio i Lakewood, CO med professionellt utbildade instruktörer med fokus på varm yoga för terapeutiska ändamål."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Professional"
+msgstr "Professionell"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Friendly"
+msgstr "Vänlig"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Inspirational"
+msgstr "Inspirerande"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Informative"
+msgstr "Informativ"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Persuasive"
+msgstr "Övertygande"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Select your site's tone"
+msgstr "Välj din webbplats ton"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Business Information"
+msgstr "Företagsinformation"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Let us create custom copy for your website"
+msgstr "Låt oss skapa anpassad text till din webbplats"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Our AI Assistant will take your input and create customized copy for each page. Describe your website or business with as much detail as you'd like and we'll use it to create your perfect site."
+msgstr "Vår AI-assistent tar dina indata och skapar anpassad text för varje sida. Beskriv din webbplats eller ditt företag med så mycket detaljer du vill och vi kommer att använda det för att skapa din perfekta webbplats."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:7
+msgid "Please accept the terms to continue"
+msgstr "Vänligen godkänn villkoren för att fortsätta"
+
+#. translators: Launch is a noun.
+#: app/AdminPageRouter.php:53
+msgid "Launch"
+msgstr "Lansering"
+
+#. translators: Launch is the product name. Unless otherwise specified by the glossary, do not translate this name.
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:3
+msgid "Added by Launch"
+msgstr "Tillagd av Launch"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:3
+msgid "Start over?"
+msgstr "Börja om?"
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:3
+msgid "Go through the onboarding process again to create a new site."
+msgstr "Genomgå introduktionsprocessen igen för att skapa en ny webbplats."
+
+#: public/build/extendify-assist-global-aad251535a353a7879b6.js:3
+#: public/build/extendify-assist-page-6d552ffd86ca7446e745.js:3
+msgid "Start over"
+msgstr "Börja om"
+
+#. translators: %3$s is the number of old pages
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:5
+msgid "%s pages created in the prior onboarding session will be deleted."
+msgstr "%s sidor som skapades under den föregående introduktionssessionen kommer att tas bort."
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:5
+msgid "Exit"
+msgstr "Avsluta"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:5
+msgid "Processing"
+msgstr "Bearbetar"
+
+#: public/build/extendify-launch-6480bf4132cbe8bb3ec1.js:5
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Ask AI"
+msgstr "Fråga AI"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Insert at top"
+msgstr "Infoga överst"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Insert after the selected text"
+msgstr "Infoga efter markerad text"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Insert at bottom"
+msgstr "Infoga längst ner"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "A paragraph …"
+msgstr "Ett stycke …"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Write a paragraph about"
+msgstr "Skriv ett stycke om"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Blog post …"
+msgstr "Blogginlägg …"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "An informative article …"
+msgstr "En informativ artikel …"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Write an informative article about"
+msgstr "Skriv en informativ artikel om"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Headline …"
+msgstr "Rubrik …"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Write a headline for"
+msgstr "Skriv en rubrik för"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "List …"
+msgstr "Lista …"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Write a list of"
+msgstr "Skriv en lista över"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Catalan"
+msgstr "Katalanska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Danish"
+msgstr "Danska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Dutch"
+msgstr "Holländska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Dutch (Belgium)"
+msgstr "Nederländska (Belgien)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "English"
+msgstr "Engelska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Estonian"
+msgstr "Estniska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Finnish"
+msgstr "Finska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "French (Belgium)"
+msgstr "Franska (Belgien)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "French (France)"
+msgstr "Franska (Frankrike)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "German"
+msgstr "Tyska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "German (Switzerland)"
+msgstr "Tyska (Schweiz)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Indonesian"
+msgstr "Indonesiska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Italian"
+msgstr "Italienska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Japanese"
+msgstr "Japanska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Polish"
+msgstr "Polska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Portuguese (Brazil)"
+msgstr "Portugisiska (Brasilien)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Portuguese (Portugal)"
+msgstr "Portugisiska (Portugal)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Spanish (Spain)"
+msgstr "Spanska (Spanien)"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Swedish"
+msgstr "Svenska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Ukrainian"
+msgstr "Ukrainska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Vietnamese"
+msgstr "Vietnamesiska"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Translate"
+msgstr "Översätt"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Translate to..."
+msgstr "Översätt till..."
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Ask AI to edit"
+msgstr "Be AI att redigera"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Remove selection"
+msgstr "Ta bort markering"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:1
+msgid "Suggested prompts"
+msgstr "Föreslagna uppmaningar"
+
+#: public/build/extendify-draft-b0a4aa4eb794edfbdc26.js:3
+msgid "Custom prompt"
+msgstr "Anpassad uppmaning"

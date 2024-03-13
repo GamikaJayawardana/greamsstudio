@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Home 4 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/greamsstudio
+Data file = C:\xampp\htdocs\greamsstudio/wp-content/themes/dustrix/inc/demo/contents.xml
+Widget file = C:\xampp\htdocs\greamsstudio/wp-content/themes/dustrix/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+dustrix_opt -> C:\xampp\htdocs\greamsstudio/wp-content/themes/dustrix/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: dustrix_opt finished successfully!
+
+---ocdi/after_import---
+

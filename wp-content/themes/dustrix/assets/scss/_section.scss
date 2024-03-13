@@ -1,0 +1,189 @@
+
+// Section Padding - Change with your need.
+.section-padding {
+    padding: 120px 0px;
+
+    @media (max-width: 1191px) {
+        padding: 100px 0px;
+    }
+
+    @media (max-width: 767px) {
+        padding: 80px 0px;
+    }
+}
+
+.section-title { 
+    position: relative;
+    margin-top: -5px;
+
+	span { 
+        position: absolute;
+        content: "";
+        font-weight: 700;
+        font-size: 160px;
+        letter-spacing: -3px;
+        color: #fff;
+        text-transform: capitalize;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: -1;
+        bottom: -5px;
+        line-height: 1;
+
+        @media (max-width: 1199px) {
+            font-size: 120px;
+        }
+        @media (max-width: 767px) {
+            font-size: 80px;
+        }
+	}
+
+	p { 
+        margin-bottom: 5px;
+        text-transform: capitalize;
+	}
+
+    h2 {
+        text-transform: capitalize;
+        font-size: 60px;
+        line-height: 70px;
+        letter-spacing: -3px;
+    
+        @media (max-width: 991px) {
+            font-size: 2.25rem;
+            line-height: 3rem;
+        }
+    }
+
+}
+
+.section-title-2 {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 40px;
+
+    @media (max-width: 767px) {
+        margin-bottom: 20px;
+    }  
+
+    span { 
+        font-size: 180px;
+        line-height: 1;
+        color: rgba(0, 22, 89, 0);
+        font-weight: 600;
+        -webkit-text-stroke: 1px #efefef;
+        position: absolute;
+        top: -38%;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: .9;
+        z-index: -1;
+        text-transform: capitalize;
+
+        @media (max-width: 1200px) {
+            font-size: 120px;
+        }
+
+        @media (max-width: 991px) {
+			font-size: 80px;
+		}
+
+        @media (max-width: 767px) {
+			font-size: 70px;
+		}
+    }
+    
+    p { 
+        color: $theme-color-2;
+        text-transform: capitalize;
+    }
+    
+    h2 { 
+        color: $second-color;
+        font-size: 60px;
+        line-height: 70px;
+        letter-spacing: -3px;
+        text-transform: capitalize;
+    
+        @media (max-width: 991px) {
+            font-size: 2.25rem;
+            line-height: 3rem;
+        }
+    }
+
+    .icon {
+        border-radius: 50%;
+        background-color: #fff;
+        box-shadow: 0px 30px 60px 0px rgba(0, 0, 0, 0.08);
+        width: 120px;
+        height: 120px;
+        line-height: 120px;
+        display: inline-block;
+        margin: 0 auto;
+        text-align: center;
+        position: relative;
+        margin-bottom: 50px;
+
+        &::before {
+            border-style: solid;
+            border-width: 4px;
+            border-radius: 50%;
+            width: 180px;
+            height: 180px;
+            border-color: #eaeaea;
+            position: absolute;
+            content: "";
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            transition: all .3s ease-in-out;
+            z-index: -1;
+        }
+    }
+}
+
+.section-title-3 { 
+
+	p { 
+        background-color: $theme-color-3;
+        padding: 12px 30px;
+        line-height: 1;
+        color: #001248;
+        text-transform: capitalize;
+        display: inline-block;
+        -webkit-clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+        clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+        margin-bottom: 15px;
+        font-weight: 500;
+	}
+
+	h2 { 
+        color: #001248;
+        font-size: 60px;
+        line-height: 70px;
+        letter-spacing: -3px;
+        text-transform: capitalize;
+    
+        @media (max-width: 991px) {
+            font-size: 2.25rem;
+            line-height: 3rem;
+        }
+	}
+}
+
+.section-bg {
+    background-color: $section-bg;
+}
+
+.theme-bg {
+    background-color: $theme-color;
+
+    .section-title {
+        h5 {
+            -webkit-text-stroke-color: $white;
+        }
+        h2 {
+            color: $white;
+        }
+    }
+}

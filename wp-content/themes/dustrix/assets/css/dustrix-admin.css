@@ -1,0 +1,31 @@
+.admin-color-fresh #redux-header, .wp-customizer #redux-header {
+    background: #453DE8;
+    border-color: #06008b;
+    text-transform: uppercase;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections a, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections a {
+    background: #381cff;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+    background: #453DE8;
+    text-shadow: 1px 1px #002e44;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover {
+    color: #fff;
+    background-color: #453DE8;
+}
+#redux-sub-footer, .admin-color-fresh .redux-sidebar .redux-group-menu li.active a, .admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild a, .wp-customizer .redux-sidebar .redux-group-menu li.active a, .wp-customizer .redux-sidebar .redux-group-menu li.activeChild a {
+    color: #453DE8;
+}
+.admin-color-fresh #redux-header .display_header span, .wp-customizer #redux-header .display_header span {
+    color: #000;
+}
+.redux-container #redux-header .display_header h2 {
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 30px;
+	padding-bottom: 10px;
+	margin: 0px;
+	padding-top: 10px;
+}

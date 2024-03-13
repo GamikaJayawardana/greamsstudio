@@ -1,0 +1,98 @@
+footer {
+    position: relative;
+
+    ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+
+        li {
+            list-style: none;
+        }
+    }
+
+    .footer-widgets {
+        position: relative;
+        z-index: 1;
+        padding-top: 55px;
+        padding-bottom: 100px;
+
+        @media (max-width: 991px) {
+            padding-bottom: 80px;
+        }
+    }
+
+    .single-footer-wid {
+        margin-top: 40px;
+
+        .wid-title {
+            margin-bottom: 40px;
+        }
+
+        ul {
+            li {
+                > a {
+                    color: #fff;
+                    margin-bottom: 15px;
+                    display: block;
+                    transition: all 0.3s;
+                    font-weight: 500;
+                    text-transform: capitalize;
+                    @media (max-width: 1191px) {
+                        margin-bottom: 20px;
+                   }
+                    @media (max-width: 767px) {
+                        margin-bottom: 15px;
+                   }
+                    &:hover {
+                        color: $theme-color;
+                        padding-left: 10px;
+                   }
+               }
+                &:last-child {
+                    a {
+                        margin-bottom: 0;
+                   }
+               }
+           }
+       }
+    }
+
+    .footer-bottom {
+        background-color: $theme-dark;
+        z-index: 1;
+        padding: 30px 0px;
+
+        p, a {
+            color: $white;
+        }
+
+        a {
+            font-weight: 500;
+        }
+
+        @media (max-width: 767px) {
+            text-align: center;
+
+            .scroll-up-btn {
+                display: none;
+            }
+        }
+    }
+
+    .footer-bottom-bar {
+        background-color: $theme-color;
+        padding: 24px 0px;
+        color: #fff;
+        text-transform: capitalize;
+
+        p {
+            color: #fff;
+        }
+
+        a, b, strong {
+            color: $second-color;
+            font-weight: 500;
+        }
+    }
+}

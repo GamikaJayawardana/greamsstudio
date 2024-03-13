@@ -1,0 +1,43 @@
+/* Adding CSS classes should be done with consideration and rarely */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.extendify-library {
+	--tw-ring-inset: var(--tw-empty, /*!*/ /*!*/);
+	--tw-ring-offset-width: 0px;
+	--tw-ring-offset-color: transparent;
+	--tw-ring-color: var(--ext-design-main, #2c39bd);
+	--tw-translate-x: 0;
+	--tw-translate-y: 0;
+	--tw-rotate: 0;
+	--tw-skew-x: 0;
+	--tw-skew-y: 0;
+	--tw-scale-x: 1;
+	--tw-scale-y: 1;
+}
+
+.extendify-library *,
+.extendify-library *:after,
+.extendify-library *:before {
+	/* no !important */
+	box-sizing: border-box;
+	border: 0 solid #e5e7eb;
+}
+.extendify-library.extendify-library-modal {
+	@apply fixed z-high inset-0 overflow-y-auto;
+}
+.extendify-library .components-toggle-group-control [role="presentation"] {
+	@apply bg-design-main;
+}
+
+/* Style contentType/pageType control in sidebar */
+.ext-type-control .components-panel__body-title {
+	@apply my-0 -mx-5 p-1 px-5 bg-transparent;
+	button {
+		@apply border border-gray-300 border-solid shadow-none outline-none focus:ring ring-design-main z-10 rounded;
+		&[aria-expanded="true"] {
+			@apply border-b-0 rounded-b-none;
+		}
+	}
+}

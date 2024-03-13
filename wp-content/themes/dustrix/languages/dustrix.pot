@@ -1,0 +1,1101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dustrix\n"
+"POT-Creation-Date: 2022-06-03 15:24+0600\n"
+"PO-Revision-Date: 2022-05-30 21:50+0600\n"
+"Last-Translator: \n"
+"Language-Team: modinatheme\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_x;esc_html_e;esc_attr__;"
+"esc_attr_x;esc_attr_e;x_;e_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:14 options/opt_404.php:23
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16 options/opt_404.php:30
+msgid ""
+"Sorry! The page you are looking doesn’t exist or broken. Go to Homepage from "
+"the below button"
+msgstr ""
+
+#: 404.php:17 options/opt_404.php:37
+msgid "Back To Home"
+msgstr ""
+
+#: functions.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:151 header.php:256 header.php:334 header.php:474
+msgid "visit our location:"
+msgstr ""
+
+#: header.php:163 header.php:268 header.php:346 header.php:486 header.php:571
+msgid "Opening Hours:"
+msgstr ""
+
+#: header.php:175 header.php:280 header.php:358 header.php:498
+msgid "Send us mail"
+msgstr ""
+
+#: header.php:187 header.php:370 header.php:412 header.php:510
+msgid "Troll fre number"
+msgstr ""
+
+#: header.php:547
+msgid "Email Us"
+msgstr ""
+
+#: header.php:559
+msgid "Contact Us"
+msgstr ""
+
+#: inc/dustrix_functions.php:40
+msgid "News"
+msgstr ""
+
+#: inc/dustrix_functions.php:53
+msgid "Search result for: “"
+msgstr ""
+
+#: inc/dustrix_functions.php:56
+msgid "404 Error!"
+msgstr ""
+
+#: inc/dustrix_functions.php:181
+msgid "Reply"
+msgstr ""
+
+#: inc/dustrix_functions.php:208
+msgid "0 comment"
+msgstr ""
+
+#: inc/dustrix_functions.php:210
+msgid "1 comment"
+msgstr ""
+
+#: inc/dustrix_functions.php:212
+msgid " Comments"
+msgstr ""
+
+#: inc/dustrix_functions.php:292
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/one_click_demo_config.php:7
+msgid "Install and activate all "
+msgstr ""
+
+#: inc/one_click_demo_config.php:9
+msgid "required plugins"
+msgstr ""
+
+#: inc/one_click_demo_config.php:10
+msgid "before you click on the \"Import\" button."
+msgstr ""
+
+#: inc/one_click_demo_config.php:14
+msgid "You will find all the pages in "
+msgstr ""
+
+#: inc/one_click_demo_config.php:16
+msgid "Pages."
+msgstr ""
+
+#: inc/one_click_demo_config.php:17
+msgid "Other pages will be imported along with the main Homepage."
+msgstr ""
+
+#: inc/one_click_demo_config.php:22
+msgid "If you fail to import the demo data, follow the alternative way"
+msgstr ""
+
+#: inc/one_click_demo_config.php:24
+msgid "here."
+msgstr ""
+
+#: inc/one_click_demo_config.php:40
+msgid "Home 1"
+msgstr ""
+
+#: inc/one_click_demo_config.php:44 inc/one_click_demo_config.php:60
+msgid "All other pages will be imported along with the main Homepage."
+msgstr ""
+
+#: inc/one_click_demo_config.php:46
+msgid "Industry"
+msgstr ""
+
+#: inc/one_click_demo_config.php:56
+msgid "Home 2"
+msgstr ""
+
+#: inc/one_click_demo_config.php:62
+msgid "Construction"
+msgstr ""
+
+#: inc/plugin_activation.php:39
+msgid "Elementor"
+msgstr ""
+
+#: inc/plugin_activation.php:45
+msgid "Modina Core"
+msgstr ""
+
+#: inc/plugin_activation.php:57
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: inc/plugin_activation.php:64
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/plugin_activation.php:70
+msgid "Elementor Header & Footer Builder"
+msgstr ""
+
+#: inc/plugin_activation.php:76
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugin_activation.php:82
+msgid "Breadcrumb Navxt"
+msgstr ""
+
+#: inc/plugin_activation.php:88
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/sidebars.php:16
+msgid "Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:18 inc/sidebars.php:31
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/sidebars.php:29
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/template-functions.php:42 inc/template-tags.php:20
+#: inc/template-tags.php:27
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:302
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:303
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:307
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:308
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:360
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#: inc/tgm/class-tgm-plugin-activation.php:886
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+#: inc/tgm/class-tgm-plugin-activation.php:3639
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:362
+#: inc/tgm/class-tgm-plugin-activation.php:3218
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:363
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:372
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:575
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:576
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:693
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1180
+#: inc/tgm/class-tgm-plugin-activation.php:3007
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2041
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2332
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2335
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2351
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2354
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2357
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2374
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2378
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2386
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2389
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2557
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2569
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2606
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2607
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2612
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2613
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2662
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2667
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2743
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2776
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2782
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2785
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2816
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2818
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2859
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2861
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2967
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3217
+msgid "Plugin activation failed."
+msgstr ""
+
+#: options/opt-config.php:46
+msgid "Theme Options"
+msgstr ""
+
+#: options/opt-config.php:47
+msgid "Dustrix Theme Options"
+msgstr ""
+
+#: options/opt-config.php:138
+msgid "Copyright dustrix &copy; 2022"
+msgstr ""
+
+#: options/opt_404.php:4
+msgid "404 Page Settings"
+msgstr ""
+
+#: options/opt_404.php:10
+msgid "404 Banner Image"
+msgstr ""
+
+#: options/opt_404.php:20
+msgid "Heading"
+msgstr ""
+
+#: options/opt_404.php:27
+msgid "Sub Heading"
+msgstr ""
+
+#: options/opt_404.php:34
+msgid "Button Text"
+msgstr ""
+
+#: options/opt_404.php:43
+msgid "Button Text Color"
+msgstr ""
+
+#: options/opt_404.php:52
+msgid "Button Background Color"
+msgstr ""
+
+#: options/opt_404.php:61
+msgid "Button Border Color"
+msgstr ""
+
+#: options/opt_404.php:70
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: options/opt_404.php:79
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: options/opt_404.php:88
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: options/opt_blog.php:4
+msgid "Blog Settings"
+msgstr ""
+
+#: options/opt_blog.php:11
+msgid "Title-Bar"
+msgstr ""
+
+#: options/opt_blog.php:17
+msgid "Blog Page Title"
+msgstr ""
+
+#: options/opt_blog.php:18
+msgid "Give here the blog page title"
+msgstr ""
+
+#: options/opt_blog.php:19
+msgid "This text will be show on blog page banner"
+msgstr ""
+
+#: options/opt_blog.php:29
+msgid "Layout Style"
+msgstr ""
+
+#: options/opt_blog.php:35
+msgid "Select Blog Layout Style"
+msgstr ""
+
+#: options/opt_blog.php:41
+msgid "Right Sidebar - Default"
+msgstr ""
+
+#: options/opt_blog.php:45
+msgid "Left Sidebar"
+msgstr ""
+
+#: options/opt_blog.php:56
+msgid "Blog Single"
+msgstr ""
+
+#: options/opt_blog.php:62
+msgid "Post Meta"
+msgstr ""
+
+#: options/opt_blog.php:63
+msgid "Show/hide post meta on blog archive page"
+msgstr ""
+
+#: options/opt_blog.php:66 options/opt_blog.php:112 options/opt_blog.php:121
+#: options/opt_blog.php:129 options/opt_blog.php:139 options/opt_header.php:38
+#: options/opt_header.php:186 options/opt_header.php:195
+#: options/opt_header.php:326
+msgid "Show"
+msgstr ""
+
+#: options/opt_blog.php:67 options/opt_blog.php:113 options/opt_blog.php:122
+#: options/opt_blog.php:130 options/opt_blog.php:140 options/opt_header.php:39
+#: options/opt_header.php:187 options/opt_header.php:196
+#: options/opt_header.php:327
+msgid "Hide"
+msgstr ""
+
+#: options/opt_blog.php:75
+msgid "Blog Social Share"
+msgstr ""
+
+#: options/opt_blog.php:82
+msgid "Social Share"
+msgstr ""
+
+#: options/opt_blog.php:85
+msgid "Enabled"
+msgstr ""
+
+#: options/opt_blog.php:86
+msgid "Disabled"
+msgstr ""
+
+#: options/opt_blog.php:100
+msgid "Title"
+msgstr ""
+
+#: options/opt_blog.php:104
+msgid "Share on"
+msgstr ""
+
+#: options/opt_blog.php:110 options/opt_social_links.php:10
+msgid "Facebook"
+msgstr ""
+
+#: options/opt_blog.php:119 options/opt_social_links.php:16
+msgid "Twitter"
+msgstr ""
+
+#: options/opt_blog.php:128
+msgid "Linkedin"
+msgstr ""
+
+#: options/opt_blog.php:137
+msgid "Pinterest"
+msgstr ""
+
+#: options/opt_custom_code.php:4
+msgid "Custom CSS"
+msgstr ""
+
+#: options/opt_footer.php:5
+msgid "Footer"
+msgstr ""
+
+#: options/opt_footer.php:13
+msgid "Scroll Up"
+msgstr ""
+
+#: options/opt_footer.php:20
+msgid "Scroll Up Icon Color"
+msgstr ""
+
+#: options/opt_footer.php:27
+msgid "Scroll Up Background Color"
+msgstr ""
+
+#: options/opt_footer.php:33
+msgid "Scroll Up Hover Icon Color"
+msgstr ""
+
+#: options/opt_footer.php:40
+msgid "Scroll Up Hover Background Color"
+msgstr ""
+
+#: options/opt_footer.php:50
+msgid "Footer Top Settings"
+msgstr ""
+
+#: options/opt_footer.php:57
+msgid "Footer Column"
+msgstr ""
+
+#: options/opt_footer.php:62
+msgid "Two Column"
+msgstr ""
+
+#: options/opt_footer.php:63
+msgid "Three Column"
+msgstr ""
+
+#: options/opt_footer.php:64
+msgid "Four Column"
+msgstr ""
+
+#: options/opt_footer.php:74
+msgid "Widget Title Color"
+msgstr ""
+
+#: options/opt_footer.php:80 options/opt_footer.php:124
+msgid "Footer Text Color"
+msgstr ""
+
+#: options/opt_footer.php:92
+msgid "Footer Background Color"
+msgstr ""
+
+#: options/opt_footer.php:98
+msgid "Footer Background Image"
+msgstr ""
+
+#: options/opt_footer.php:109
+msgid "Footer Bottom"
+msgstr ""
+
+#: options/opt_footer.php:116
+msgid "Footer Copyright"
+msgstr ""
+
+#: options/opt_footer.php:117
+msgid "write down your own copyright info."
+msgstr ""
+
+#: options/opt_footer.php:131
+msgid "Footer Link Color"
+msgstr ""
+
+#: options/opt_footer.php:138
+msgid "Footer Bottom Bar Background"
+msgstr ""
+
+#: options/opt_general.php:3
+msgid "Preloader Settings"
+msgstr ""
+
+#: options/opt_general.php:11
+msgid "Pre-loader"
+msgstr ""
+
+#: options/opt_general.php:12
+msgid "Enable"
+msgstr ""
+
+#: options/opt_general.php:13
+msgid "Disable"
+msgstr ""
+
+#: options/opt_general.php:18
+msgid "Pre-Loader Title Text"
+msgstr ""
+
+#: options/opt_general.php:19
+msgid "change preloader title with your own."
+msgstr ""
+
+#: options/opt_general.php:30
+msgid "Loading Text"
+msgstr ""
+
+#: options/opt_general.php:31
+msgid "Loading"
+msgstr ""
+
+#: options/opt_general.php:35
+msgid "Preloader Title Color"
+msgstr ""
+
+#: options/opt_general.php:36
+msgid "Choice solid color for preloader title (Big Heading) color."
+msgstr ""
+
+#: options/opt_general.php:46
+msgid "Preloader Loading Text Color"
+msgstr ""
+
+#: options/opt_general.php:47
+msgid "Choice color for preloader loading text (p) color."
+msgstr ""
+
+#: options/opt_general.php:57
+msgid "Preloader Spinner (moving) Color"
+msgstr ""
+
+#: options/opt_general.php:58
+msgid "Choice your solid color for border top Spinner (moving) color."
+msgstr ""
+
+#: options/opt_general.php:69
+msgid "Preloader Background"
+msgstr ""
+
+#: options/opt_header.php:4
+msgid "Header Settings"
+msgstr ""
+
+#: options/opt_header.php:11
+msgid "Header Style"
+msgstr ""
+
+#: options/opt_header.php:12
+msgid "Select your header style from this three design."
+msgstr ""
+
+#: options/opt_header.php:18
+msgid "Header One"
+msgstr ""
+
+#: options/opt_header.php:22
+msgid "Header Two"
+msgstr ""
+
+#: options/opt_header.php:26
+msgid "Header Three"
+msgstr ""
+
+#: options/opt_header.php:33
+msgid "Top Header Bar"
+msgstr ""
+
+#: options/opt_header.php:34
+msgid "are you want show top bar ?"
+msgstr ""
+
+#: options/opt_header.php:48
+msgid "Phone Number"
+msgstr ""
+
+#: options/opt_header.php:49 options/opt_header.php:67
+msgid "Type phone number."
+msgstr ""
+
+#: options/opt_header.php:57
+msgid "Email Address"
+msgstr ""
+
+#: options/opt_header.php:58
+msgid "Type email address."
+msgstr ""
+
+#: options/opt_header.php:66
+msgid "Office Address - Location"
+msgstr ""
+
+#: options/opt_header.php:75
+msgid "Office Time Hours"
+msgstr ""
+
+#: options/opt_header.php:76
+msgid "Enter Days & Time."
+msgstr ""
+
+#: options/opt_header.php:84
+msgid "Welcome Text"
+msgstr ""
+
+#: options/opt_header.php:85
+msgid "Type your top bar welcome heading."
+msgstr ""
+
+#: options/opt_header.php:106
+msgid "Logo"
+msgstr ""
+
+#: options/opt_header.php:113
+msgid "Select Your Logo Type"
+msgstr ""
+
+#: options/opt_header.php:114
+msgid "which type logo you want for your site ?"
+msgstr ""
+
+#: options/opt_header.php:125
+msgid "Text Logo"
+msgstr ""
+
+#: options/opt_header.php:126
+msgid "Type your logo text , it is a text logo."
+msgstr ""
+
+#: options/opt_header.php:136
+msgid "Logo Text Color"
+msgstr ""
+
+#: options/opt_header.php:137
+msgid "Select Logo color"
+msgstr ""
+
+#: options/opt_header.php:146
+msgid "Main Logo Upload"
+msgstr ""
+
+#: options/opt_header.php:147
+msgid "Upload here a image file for your logo"
+msgstr ""
+
+#: options/opt_header.php:160
+msgid "Logo dimensions"
+msgstr ""
+
+#: options/opt_header.php:161
+msgid "Set a custom height width for your upload logo."
+msgstr ""
+
+#: options/opt_header.php:176
+msgid "Banner"
+msgstr ""
+
+#: options/opt_header.php:185
+msgid "Breadcrumb Option"
+msgstr ""
+
+#: options/opt_header.php:192
+msgid "Banner Image Type"
+msgstr ""
+
+#: options/opt_header.php:210
+msgid "Header Banner Image Upload"
+msgstr ""
+
+#: options/opt_header.php:211
+msgid "Upload here a jpg/png file for header background image."
+msgstr ""
+
+#: options/opt_header.php:221
+msgid "Banner Overlay Color"
+msgstr ""
+
+#: options/opt_header.php:229
+msgid "Banner Overlay Color Opacity"
+msgstr ""
+
+#: options/opt_header.php:252
+msgid "Banner Color"
+msgstr ""
+
+#: options/opt_header.php:253
+msgid "Choice your solid banner color"
+msgstr ""
+
+#: options/opt_header.php:269
+msgid "Navbar"
+msgstr ""
+
+#: options/opt_header.php:276
+msgid "Menu Item Color"
+msgstr ""
+
+#: options/opt_header.php:277 options/opt_header.php:284
+msgid "Menu item Text color"
+msgstr ""
+
+#: options/opt_header.php:283
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: options/opt_header.php:290
+msgid "Menu Active Color"
+msgstr ""
+
+#: options/opt_header.php:291
+msgid "Menu item active and hover text color"
+msgstr ""
+
+#: options/opt_header.php:297
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: options/opt_header.php:303
+msgid "Menu Item Margin"
+msgstr ""
+
+#: options/opt_header.php:304
+msgid "Margin around menu item (li)."
+msgstr ""
+
+#: options/opt_header.php:316
+msgid "Action Button"
+msgstr ""
+
+#: options/opt_header.php:323
+msgid "Button Visibility"
+msgstr ""
+
+#: options/opt_header.php:331
+msgid "Button Label"
+msgstr ""
+
+#: options/opt_header.php:332
+msgid "Leave the button label field empty to hide the button."
+msgstr ""
+
+#: options/opt_header.php:335
+msgid "Get A Quote"
+msgstr ""
+
+#: options/opt_header.php:340
+msgid "Button URL"
+msgstr ""
+
+#: options/opt_header.php:348
+msgid "Font Size"
+msgstr ""
+
+#: options/opt_header.php:359
+msgid "Button Colors"
+msgstr ""
+
+#: options/opt_header.php:360
+msgid "Button style attributes on normal"
+msgstr ""
+
+#: options/opt_header.php:368
+msgid "Text color"
+msgstr ""
+
+#: options/opt_header.php:376
+msgid "Background Color"
+msgstr ""
+
+#: options/opt_header.php:386
+msgid "Hover Text Color"
+msgstr ""
+
+#: options/opt_header.php:387
+msgid "Text color on hover stats."
+msgstr ""
+
+#: options/opt_header.php:395
+msgid "Hover Background Color"
+msgstr ""
+
+#: options/opt_header.php:396
+msgid "Background color on hover stats."
+msgstr ""
+
+#: options/opt_header.php:412
+msgid "Button Padding"
+msgstr ""
+
+#: options/opt_header.php:413
+msgid "Padding around the menu donate button."
+msgstr ""
+
+#: options/opt_social_links.php:3
+msgid "Social Links"
+msgstr ""
+
+#: options/opt_social_links.php:22
+msgid "Skype"
+msgstr ""
+
+#: options/opt_social_links.php:28
+msgid "LinkedIn"
+msgstr ""
+
+#: options/opt_social_links.php:34
+msgid "Dribbble"
+msgstr ""
+
+#: options/opt_social_links.php:39
+msgid "Youtube"
+msgstr ""
+
+#: options/opt_social_links.php:45
+msgid "Instagram"
+msgstr ""
+
+#: options/opt_typo.php:4
+msgid "Typography"
+msgstr ""
+
+#: options/opt_typo.php:12
+msgid "Body Typography"
+msgstr ""
+
+#: options/opt_typo.php:13
+msgid "These settings control the typography for the body text globally."
+msgstr ""
+
+#: options/opt_typo.php:20
+msgid "Headers Typography"
+msgstr ""
+
+#: options/opt_typo.php:30
+msgid "All Heading Typography"
+msgstr ""
+
+#: options/opt_typo.php:31
+msgid "These settings control the typography for all Headers."
+msgstr ""
+
+#: page.php:25 template-parts/content/content-page.php:19
+#: template-parts/content/content-single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: page.php:29
+msgid "Page"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: template-parts/content/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:31
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content/content-single.php:55
+msgid "Tags:"
+msgstr ""
+
+#: template-parts/content/content.php:34
+msgid "Featured"
+msgstr ""
